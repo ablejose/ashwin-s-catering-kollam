@@ -1,0 +1,57 @@
+{
+  "slug": "ashwin-s-catering-kollam",
+  "name": "Ashwin's Catering",
+  "shortName": "Ashwin's",
+  "descriptor": "Catering Services",
+  "address": "Mundakkal, Kollam, Keralam 691001",
+  "area": "Mundakkal",
+  "city": "Kollam",
+  "district": "Kollam",
+  "region": "Kerala",
+  "postalCode": "691016",
+  "geo": {
+    "lat": 8.8659834,
+    "lng": 76.6094997
+  },
+  "mapsLink": "https://maps.google.com/?cid=3649006361914471439",
+  "phone": "+91 80860 40398",
+  "whatsapp": "918086040398",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 5,
+  "reviewCount": 40,
+  "reviews": [
+    {
+      "name": "Vivek Sree",
+      "rating": 5,
+      "quote": "I had this wonderful opportunity of associating with them this onam.My onam celebration s would have been incomplete without the home made sadhya which they provided with all the delicacies .I also appreciate their friendly attitude to the customers. I have also tried their wide array of must try homemade pickles, chutneys and more."
+    },
+    {
+      "name": "Christine Shybu",
+      "rating": 4,
+      "quote": "Thank you Ma'am for preparing a Homemade dinner for my son's birthday party. The food was awesome and tasty. Thank you especially for sending a birthday cake for my son. He really enjoyed the cake and the food. The Mango pickle which I ordered was also tasty, it was as I wanted it."
+    },
+    {
+      "name": "Neethu s v",
+      "rating": 5,
+      "quote": "The homemade Sadhya served today for my family function was an absolute masterpiece, bursting with authentic flavors and prepared with incredible heart. Each and every dish, from the perfectly seasoned Avial to the rich Payasam, tasted remarkably fresh and better than any restaurant version."
+    },
+    {
+      "name": "Anju S",
+      "rating": 5,
+      "quote": "I used the homemade banana powder for my baby, and I’m very happy with it. The texture is smooth, the taste is amazing, and it’s completely preservative-free. Perfect for little ones and a healthy option for the whole family."
+    },
+    {
+      "name": "Sulu Nikhil",
+      "rating": 5,
+      "quote": "I bought banana powder and ragi powder for my baby from them and my baby likes those so much . The quality of the products are amazing and I am satisfied as a mother. Also I am happy to recommend the products to everyone."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://ashwin-s-catering-kollam.vercel.app"
+}
